@@ -1,0 +1,27 @@
+﻿  MyForm.cpp
+C:\Users\H\source\repos\Project33\Project33\PatientForm.h(276,2): error C2065: 'MyForm': undeclared identifier
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\H\source\repos\Project33\Project33\PatientForm.h(276,10): error C2065: 'mainForm': undeclared identifier
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\H\source\repos\Project33\Project33\PatientForm.h(276,27): error C2061: syntax error: identifier 'MyForm'
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\H\source\repos\Project33\Project33\PatientForm.h(277,2): error C2065: 'mainForm': undeclared identifier
+  (compiling source file 'MyForm.cpp')
+  
+  PatientForm.cpp
+C:\Users\H\source\repos\Project33\Project33\PatientForm.h(276,2): error C2065: 'MyForm': undeclared identifier
+  (compiling source file 'PatientForm.cpp')
+  
+C:\Users\H\source\repos\Project33\Project33\PatientForm.h(276,10): error C2065: 'mainForm': undeclared identifier
+  (compiling source file 'PatientForm.cpp')
+  
+C:\Users\H\source\repos\Project33\Project33\PatientForm.h(276,27): error C2061: syntax error: identifier 'MyForm'
+  (compiling source file 'PatientForm.cpp')
+  
+C:\Users\H\source\repos\Project33\Project33\PatientForm.h(277,2): error C2065: 'mainForm': undeclared identifier
+  (compiling source file 'PatientForm.cpp')
+  
+  Generating Code...

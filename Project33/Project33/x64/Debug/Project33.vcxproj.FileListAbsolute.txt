@@ -1,0 +1,6 @@
+C:\Users\H\source\repos\Project33\Project33\x64\Debug\Project33.vcxproj.AssemblyReference.cache
+C:\Users\H\source\repos\Project33\Project33\x64\Debug\Project33.MyForm.resources
+C:\Users\H\source\repos\Project33\Project33\x64\Debug\Project33.vcxproj.GenerateResource.cache
+C:\Users\H\source\repos\Project33\Project33\x64\Debug\Project33.PatientForm.resources
+C:\Users\H\source\repos\Project33\Project33\x64\Debug\Project33.MyForm1.resources
+C:\Users\H\source\repos\Project33\Project33\x64\Debug\Project33.AppoitmentForm.resources
